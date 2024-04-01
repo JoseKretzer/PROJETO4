@@ -3,6 +3,12 @@
     color: black;
 }
 #calc{
-    background-color: blueviolet;
+    background-color: gray;
     color: pointer;
+}
+#resultado{
+    font-size: 25px;
+    color: rgba(134, 13, 204, 0.315);
+    margin: 50px;
+    
 }
